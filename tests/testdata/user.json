@@ -1,0 +1,6 @@
+{
+ "staging": {
+    "userA": "tomsmith",
+    "passwordUserA" :"SuperSecretPassword!"
+ }
+}

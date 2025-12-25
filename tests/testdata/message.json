@@ -1,0 +1,24 @@
+{
+    "myInformation":{
+        "updateUserSuccessMsg": "Updating your profile was successful",
+        "firstNameWrongFormat": "First Name should not contain special characters",
+        "lastNameWrongFormat":"Last Name should not contain special characters",
+        "firstNameOver50chacracters": "First Name is limited to 50 characters",
+        "lastNameOver50chacracters": "Last Name is limited to 50 characters",
+        "address1Over256characters": "Address1 is limited to 256 characters",
+        "address2Over256characters": "Address2 is limited to 256 characters",
+        "cityOver256characters": "City is limited to 256 characters",
+        "titleOver50characters": "Title is limited to 50 characters",
+        "companyOver256characters": "Company is limited to 256 characters",
+        "companyWrongFormat": "Company should not contain special characters",
+        "postalCodeWrongFormat": "Postal Code should not contain special characters",
+        "phoneNumberWrongFormat": "Please enter the phone number correctly in the format",
+        "postalCodeOver20characters": "Postal Code is limited to 20 characters",
+        "passwordBlank": "Password cannot be blank",
+        "confirnmPasswordBlank": "Confirm Password cannot be blank",
+        "confirmPasswordNotMatch": "The passwords do not match",
+        "minimumPassword": "Minimum password length is 13 characters",
+        "passwordDoNotMatchReq": "The password must contain at least one lowercase letter, one uppercase letter, one number and one special character",
+        "currentPasswordNotMatch": "Your current password is not correct."
+    }
+}
